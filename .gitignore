@@ -1,0 +1,12 @@
+.DS_Store
+
+ext/glfw-3.3.2/docs/*
+ext/imgui-1.77/docs/*
+ext/stb/stb.xcodeproj/*
+ext/imgui-1.77/IMGUI.xcodeproj/*
+ext/glew-2.1.0/doc/*
+ext/glfw-3.3.2/GLFW.xcodeproj/*
+ext/glew-2.1.0/GLEW.xcodeproj/*
+CG/CG.xcodeproj/*
+bin/*
+Computer Graphics.xcworkspace/*
